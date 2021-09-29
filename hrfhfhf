@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<link rel="stylesheet" href="s.css">
+	<title>html Cheat sheet</title>
+</head>
+
+<body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	<div class="topnav">
+		<a class="active" href="#home">Home</a>
+		<a href="#news">News</a>
+		<a href="#contact">Contact</a>
+		<a href="#about">About</a>
+	  </div>
+	  
+	  <div style="padding-left:16px">
+
+
+
+
+
+
+
+
+	
+	
+
+	  
+
+
+
+		</div>
+		 
+	
+	
+	
+	
+	
+
+	<!--Heading -->
+	<h1>Heading One</h1>
+	<h2>Heading Two</h2>
+	<h3>Heading Three</h3>
+	<h4>Heading Four</h4>
+	<h5>Heading Five</h5>
+	<h6>Heading Six</h6>
+<p>homdnejnde</p>
+	<!--Paragraph -->
+	<p>
+		Having an online presence is a great opportunity to reach out to your <strong>target market</strong>. If you want to create a new website or plan to redesign your existing website but you don’t have any idea how to do it, you may consider using a custom restaurant <em>WordPress theme</em>.Many pre-made website templates are bundled with awesome theme features that you can use for marketing your restaurant business online. It is crucial that you choose a responsive and mobile-ready template since most consumers these days visit a website through their handheld device.
+
+
+	</p>
+		<ul>
+			<li>List item 1</li>
+			<li>List item 2</li>
+			<li>List item 3</li>
+			<li>List item 4</li>
+
+		</ul>
+
+		<ol>
+			<li>List item 1</li>
+			<li>List item 2</li>
+			<li>List item 3</li>
+			<li>List item 4</li>
+
+		</ol>
+
+		<!--Table-->
+		<table>
+			<thead>
+				<tr>
+					<th>Name</th>
+					<th>Email</th>
+					<th>Age</th>
+				</tr>
+			</thead>
+			<tbody>
+			
+			<tr>
+				
+				<td>Noor Mukhtar</td>
+				<td>n2000@gmail.com</td>
+				<td>21</td>
+				
+				</tr>
+
+				<tr>
+				
+				<td>Jaja Kay</td>
+				<td>wwww2000@gmail.com</td>
+				<td>21</td>
+				
+				</tr>
+				
+				<tr>
+				
+				<td>Aden Abukar</td>
+				<td>akay2000@gmail.com</td>
+				<td>21</td>
+				
+				</tr>
+
+			</tbody>
+		</table>
+
+		<!--Forms-->
+		<br>
+		
+		<div>
+			<LABEL>First Name</LABEL>
+			<input type="text" name="FirstName">
+
+		</div>
+		
+		<br>
+		
+		<div>
+			<LABEL>Second Name</LABEL>
+			<input type="text" name="SecondName">
+			
+		</div>
+
+		<div>
+		
+		<LABEL>Email</LABEL>
+			<input type="" ="email" name="Email">
+		
+		</div>	
+
+		<div>
+			<LABEL>Gender</LABEL>
+			<select name="Gender">
+				<option value="Male">Male </option>
+				<option value="Female">Female </option>
+
+			</select>
+
+		</div>
+
+		<div>
+			<LABEL>Age</LABEL>
+			<input type="number" name="" ="SecondName">
+		</div>
+</body>
+</html>
